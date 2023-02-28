@@ -1,2 +1,2 @@
 # alx-pre_course
-CREATE A RESPOSITORY
+I'm now a ALX Student, this is my first repository as a full-stack engineer
